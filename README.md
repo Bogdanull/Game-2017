@@ -1,6 +1,9 @@
 # Grapp
 Game project for Gameccelerator 4.0
 
+![Grapp Menu](https://user-images.githubusercontent.com/27884873/71326941-66a1c580-250a-11ea-8e00-0d3e0726edaf.jpg)
+
+
 ### Game description
 The game is an endless runner that runs on Android. Using a grappling hook, the player must avoid the incoming obstacles such as saws, falling boxes and the hot steam from broken pipes. The difficulty and complexity of the obstacles increases with the time you managed to survive in the current run. Because of this, the player is also helped with superpowers that can speed you up, freeze the time, or give you a jetpack for a better handling.
 The game also has a story mode, where you can play 21 predefined levels. The first levels serve as tutorials for the game, while the last ones can prove to be very challenging, even for an experienced gamer.
