@@ -1,7 +1,7 @@
 # Grapp
 Game project for Gameccelerator 4.0
 
-![Grapp Menu](https://user-images.githubusercontent.com/27884873/71326941-66a1c580-250a-11ea-8e00-0d3e0726edaf.jpg)
+![Grapp Menu](https://user-images.githubusercontent.com/27884873/71326941-66a1c580-250a-11ea-8e00-0d3e0726edaf.jpg =250x)
 
 
 ### Game description
